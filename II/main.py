@@ -1,4 +1,4 @@
 def main():
-    print ("Sumit")
-if __name__ == '__main__':
+    print ("Pandey")
+if __name__ == "main":
     main()
